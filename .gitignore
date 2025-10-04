@@ -1,0 +1,11 @@
+# Flutter
+.dart-tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.build/
+
+# Other
+.DS_Store
+*.log
